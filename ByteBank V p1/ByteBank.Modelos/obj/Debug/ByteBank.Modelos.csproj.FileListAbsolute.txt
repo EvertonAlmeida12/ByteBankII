@@ -1,0 +1,7 @@
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank V\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
