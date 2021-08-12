@@ -1,0 +1,16 @@
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csprojAssemblyReference.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\CSharpPOO\ByteBank III\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
